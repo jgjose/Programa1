@@ -23,4 +23,4 @@ Equipo, ejemplos y practicas de la estaria Programacion computacional I
 *   3 Formularios Avanzados (Alta complejidad o 3 o mas tablas unidad)
 *   10 reportes (salida de informacion o presentacion de informacion al usuario)
 *   Menus y accesos repidos, barras de herramientas, cuadros de dialogo
-*   Creatividad e innovacion.
+*   Creatividad e innovacion..
