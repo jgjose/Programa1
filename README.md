@@ -24,3 +24,4 @@ Equipo, ejemplos y practicas de la estaria Programacion computacional I
 *   10 reportes (salida de informacion o presentacion de informacion al usuario)
 *   Menus y accesos repidos, barras de herramientas, cuadros de dialogo
 *   Creatividad e innovacion..
+*   tuve problemas con mi cuenta de github y tuve que crear otra cuenta la cual es la que tengo ahorita tambien algunos de los archivos os hize de nuevo .
